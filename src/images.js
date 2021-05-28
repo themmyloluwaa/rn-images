@@ -30,3 +30,5 @@ const IMAGES = [
   "https://cdn.pixabay.com/photo/2017/05/09/03/46/alberta-2297204__340.jpg",
   "https://cdn.pixabay.com/photo/2017/02/21/18/20/lake-2086945_1280.jpg",
 ];
+
+export default IMAGES;
